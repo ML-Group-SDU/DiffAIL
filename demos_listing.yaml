@@ -1,0 +1,23 @@
+hopper_sac:
+  description: "Hopper, expert"
+  file_paths: [
+    ./demos/data/Hopper.pkl
+  ]
+
+walker_sac:
+  description: "Walker, expert"
+  file_paths: [
+    ./demos/data/Walker2d.pkl
+  ]
+
+halfcheetah_sac:
+  description: "Halfcheetah, expert"
+  file_paths: [
+    ./demos/data/HalfCheetah.pkl
+  ]
+
+ant_sac:
+  description: "Ant, expert"
+  file_paths: [
+    ./demos/data/Ant.pkl
+  ]
