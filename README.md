@@ -23,9 +23,7 @@ the diffusion model's learning loss. By combining the diffusion model's loss wit
 expert demonstration and policy data distributions, facilitating the successful identification of expert-level behaviours that were previously unseen. 
 
 # Dataset
-Since different SOTA methods use different data file formats, to facilitate reproduction of the experimental results,
-we provide the datasets for all experiments, including Valuedice, CFIL and OPOLO (the file contents are the same, only 
-the suffixes differ). All the dataset files are under ./demos.
+All the dataset files are under ./demos. Those files have been compressed, you need to decompress them to "./demo"
 
 # Usage  
 
