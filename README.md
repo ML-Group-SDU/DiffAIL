@@ -59,9 +59,11 @@ This repo relies on the following existing codebases:
 
 # Citation
 If you use this code for your research, please consider citing the paper:
+```
 @article{wang2023diffusionAIL,
   title={DiffAIL: Diffusion Adversarial Imitation Learning},
   author={Wang, Bingzheng and Wu, Guoqiang and Pang, Teng and Zhang, yan and Yin, Yilong},
   journal={arXiv preprint arXiv:2312.06348},
   year={2023}
 }
+```
