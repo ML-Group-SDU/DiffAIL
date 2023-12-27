@@ -30,7 +30,7 @@ constants:
   policy_num_hidden_layers: 2
 
   adv_irl_params:
-    mode: 'gail2'
+    mode: 'gail'
     state_only: false
 
     num_epochs: 75
