@@ -12,7 +12,7 @@ DiffAIL is evaluated  on MuJoCo continuous control tasks in OpenAI gym. It is tr
 
 Install Dependencies
 ```
-pip install -m requirements.txt
+pip install -r requirements.txt
 ```
 You will also need to install Mujoco and use a valid license. Follow the install instructions [here](https://github.com/openai/mujoco-py).
 
