@@ -16,7 +16,7 @@ pip install -r requirements.txt
 ```
 You will also need to install Mujoco and use a valid license. Follow the install instructions [here](https://github.com/openai/mujoco-py).
 
-# method
+# Method
 Building on the diffusion model's superior ability to learn data distribution, we present a new method called Diffusion Model Loss as a reward
 function for Generative Adversarial Imitation Learning (DiffAIL) in this work. DiffAIL employs the same framework as traditional AIL but incorporates
 the diffusion model's learning loss. By combining the diffusion model's loss with AIL, DiffAIL enables the discriminator to accurately capture both 
